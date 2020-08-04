@@ -1,4 +1,5 @@
 # Code your solution in calculator.rb
+# will commenting make things extra difficult? @note 
 
 describe "./calculator.rb" do
 
