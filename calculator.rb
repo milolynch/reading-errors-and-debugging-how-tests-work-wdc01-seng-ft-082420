@@ -1,8 +1,8 @@
 # Add your variables here
 
-first_number = 0 
+first_number = 1 
 second_number = 1
-sum = 1
-difference = 0
-product = 0
-difference = 0
+sum = 2
+difference = 0 
+product = 1
+ = 0
