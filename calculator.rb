@@ -4,4 +4,5 @@ first_number = 0
 second_number = 1
 sum = 1
 difference = -1
-munti = product
+product = 0
+difference = 0
