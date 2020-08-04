@@ -5,4 +5,4 @@ second_number = 1
 sum = 2
 difference = 0 
 product = 1
- = 0
+quotient = 1
